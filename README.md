@@ -10,7 +10,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) chatbot built u
 |----------------------------|---------------------------------------------------------------|
 | `Training Dataset.csv`     | Raw loan data for training                                    |
 | `Testing Dataset.csv`      | Extra data for evaluation or future extension                 |
-| `Assignment8_Celebal_RAG.ipynb` | Jupyter notebook with complete data loading, embedding, RAG setup |
+| `RAG_Loan_Approval_Chatbot.ipynb` | Jupyter notebook with complete data loading, embedding, RAG setup |
 | `rag_index.pkl`            | Precomputed FAISS index + documents for fast chatbot startup  |
 | `app.py`                   | Streamlit-based chatbot interface                             |
 
